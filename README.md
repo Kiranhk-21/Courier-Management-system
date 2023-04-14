@@ -10,3 +10,5 @@ Below diagram is the Relation Schema
 ![image](https://user-images.githubusercontent.com/118037785/231950128-66ef7097-ff12-445e-b6c1-c54c1e2b4ed9.png)
 
 My project contains About page and also allows you to perform basic CRUD operations on the select tables. This can be extented to all the other tables with more trigger checks and procedure calls.
+
+I have also given some of the queries in join.sql which contains join operations.
